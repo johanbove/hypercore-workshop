@@ -1,6 +1,6 @@
 # This is a fork of kappa architecture workshop
 
-We made a fork to update some material that was became outdated and may be to focus exercises on core Hypercore modules.
+We made a fork to update some materials that became outdated and may be to focus exercises on core Hypercore modules.
 -----------------------------------------------------------------------------------------------------------------------
 by (in no particular order): [noffle](https://github.com/noffle), [okdistribute](https://github.com/okdistribute), and [mafintosh](https://github.com/mafintosh) 
 
