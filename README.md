@@ -1,5 +1,7 @@
-# kappa architecture workshop
+# This is a fork of kappa architecture workshop
 
+We made a fork to update some material that was became outdated and may be to focus exercises on core Hypercore modules.
+-----------------------------------------------------------------------------------------------------------------------
 by (in no particular order): [noffle](https://github.com/noffle), [okdistribute](https://github.com/okdistribute), and [mafintosh](https://github.com/mafintosh) 
 
 A small series of workshops to introduce kappa architecture and how to build p2p programs with modules like hypercore, multifeed, and kappa-core.
